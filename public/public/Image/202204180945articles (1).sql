@@ -1,0 +1,33 @@
+
+
+INSERT INTO `articles` (`id`, `Libelle`, `Code`, `Prix_HT`, `Tva`, `Prix_TTC`, `Type_ventes_id`) VALUES
+(1, 'Cahier d’entreprise en 4 pages couleur (180 l x 270 h) mm sur l’annuaire imprimé', 'PS_P0004', NULL, NULL, NULL, 1),
+(2, '4 Banners (Bandeau) couleur (180 l x 36 h) mm sur CD-Rom, site web, et application mobile)', 'PS_B0003', NULL, NULL, NULL, 1),
+(3, 'Web présence en mode Booster (Logo couleur, link, géolocalisation, pages web, et banners, …)', 'PS_W001', NULL, NULL, NULL, 1),
+(4, 'Optimisation sur Mobile application (logo couleur, link, géolocalisation, visuels, …)', 'PS_O001', NULL, NULL, NULL, 1),
+(5, 'Forfait de Base (Fiche de renseignements détaillée de l’entreprise sur annuaire, CD-Rom, site web, et application mobile)', 'PS_F0001', NULL, NULL, NULL, 1),
+(6, 'Kit Complet ( Annuaire imprimé & CD-Rom )', 'PS_K0001', NULL, NULL, NULL, 1),
+(7, 'Double page couleur (180 l x 270 h) mm sur l’annuaire imprimé', 'PS_P0002', NULL, NULL, NULL, 1),
+(8, '2 Banners (Bandeau) couleur (180 l x 36 h) mm sur CD-Rom, site web, et application mobile)', 'PS_B0002', NULL, NULL, NULL, 1),
+(9, 'Page Couleur (180 l x 270 h) mm sur l’annuaire imprimé', 'PS_P0001', NULL, NULL, NULL, 1),
+(10, 'Banner (Bandeau) couleur (180 l x 36 h) mm sur CD-Rom, site web, et application mobile)', 'PS_B0001', NULL, NULL, NULL, 1),
+(11, '1/2 Page couleur (180 l x 130 h) mm sur l’annuaire imprimé', 'PS_P0003', NULL, NULL, NULL, 1),
+(12, 'POP UP UNE Portail www.pages jaunes-dz.com ', 'PP_P0019', NULL, NULL, NULL, 2),
+(13, 'Bannière Une Portail www.pagesjaunes-dz.com ', 'PP_B0020', NULL, NULL, NULL, 2),
+(14, 'Page  (180 l x 270 h) mm sur l’annuaire imprimé', 'PS_P0001\r\n', NULL, NULL, NULL, 2),
+(15, 'Banner (Bandeau)  (180 l x 36 h) mm sur CD-Rom, site web, et application mobile)', 'PS_B0001\r\n\r\n\r\n\r\n', NULL, NULL, NULL, 2),
+(16, 'Web présence en mode Booster (Logo , link, géolocalisation, pages web, et banners, …)\r\n', 'PS_W001\r\n', NULL, NULL, NULL, 2),
+(17, 'Page écran (180 l x 150 h) mm sur CD-Rom ;\r\n', 'PE_0002\r\n', NULL, NULL, NULL, 2),
+(18, 'Optimisation sur Mobile application (logo , link, géolocalisation, visuels, …)\r\n', 'PS_O001\r\n', NULL, NULL, NULL, 2),
+(19, 'Forfait de Base (Fiche de renseignements détaillée de l’entreprise sur annuaire, CD-Rom, site web, et application mobile)\r\n', 'PS_F0001\r\n', NULL, NULL, NULL, 2),
+(20, 'Kit Complet ( Annuaire imprimé & CD-Rom )', 'PS_K0001\r\n', NULL, NULL, NULL, 2),
+(21, 'Banner (Bandeau)  (180 l x 36 h) mm sur CD-Rom, site web, et application mobile)\r\n', 'PS_B0001\r\n', NULL, NULL, NULL, 2),
+(22, 'Accès Annuel à la Base de Données commerciales et professionnelles pertinente via plate forme de recherche multicritères par Nom d\'entreprise, Nom du dirigeant, Produit, Activité, Localité, Marque, N° Téléphone, effectifs....... - Pages Jaunes Algérie - Annuaire Economiques des Entreprises Algériennes - multi-utilisateurs - 5000 téléchargements (Excell, csv, pdf)', 'EP_0001\r\n', 83000.00, 15770.00, 98770.00, 3),
+(29, 'Accès Annuel à la Base de Données commerciales et professionnelles pertinente via plate forme de recherche multicritères par Nom d\'entreprise, Nom du dirigeant, Produit, Activité, Localité, Marque, N° Téléphone, effectifs....... - Pages Jaunes Algérie - Annuaire Economiques des Entreprises Algériennes - multi-utilisateurs - 5000 téléchargements (Excell, csv, pdf)\r\n', 'SR_EP001\r\n', NULL, NULL, NULL, 2),
+(33, 'Conception : Design graphique, Rédaction et Routage (envoi) de vos e-mailings                                  Rapports de campagne et statistiques Pour 2000 adresses e-mail Pro', 'EM_0001', 26000.00, 4940.00, 30940.00, 4),
+(34, 'Conception : Design graphique, Rédaction et Routage (envoi) de vos e-mailings                                  Rapports de campagne et statistiques Pour 5000 adresses e-mail Pro', 'EM_0002', 50000.00, 9500.00, 59500.00, 4),
+(35, 'Conception : Design graphique, Rédaction et Routage (envoi) de vos e-mailings                               Rapports de campagne et statistiques Pour 10000 adresses e-mail Pro', 'EM_0003', 80000.00, 15200.00, 95200.00, 4),
+(36, 'Conception : Design graphique, Rédaction et Routage (envoi) de vos e-mailings                               Rapports de campagne et statistiques Pour 20000 adresses e-mail Pro', 'EM_0004', 120000.00, 22800.00, 142800.00, 4),
+(37, 'Conception (Design graphique, Rédaction et Routage (envoi) de vos e-mailings                                Rapports de campagne et statistiques Pour 50000 adresses e-mail Pro', 'EM_0005', 150000.00, 28500.00, 178500.00, 4),
+(38, 'Page Vitrine dédiée sur le Portail www.pagesjaunes-dz.com et l\'Application Mobile Pages Jaunes DZ Mise en avant sur la page d\'accueil et les moteurs de recherche :                                                          Bannière(s) publicitaires(s) - Cordonnées détaillés - Description de l\'entreprise - Activités - Produits/Services - Catalogue/Fiche(s) Technique - Marque(s) - Galerie vidéo(s) -/Photo(s) - Géolocalisation - Lien vers Site Web et réseaux sociaux ', 'DB_0001', 83500.00, 15865.00, 99365.00, 5);
+

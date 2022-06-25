@@ -1,0 +1,30 @@
+{
+    "data": [{
+            "responsive_id": null,
+            "invoice_id": 4477,
+            "issued_date": "12/13/2019",
+            "client_name": "Roxy Floodgate",
+            "email": "roxyfloodgate@email.com",
+            "service": "Software Development",
+            "total": 3428,
+            "avatar": "",
+            "invoice_status": "Paid",
+            "balance": "$724",
+            "due_date": "04/23/2019"
+        },
+        {
+            "responsive_id": null,
+            "invoice_id": 5020,
+            "issued_date": "07/17/2019",
+            "client_name": "Roy Southerell",
+            "email": "roysoutherell@email.com",
+            "service": "UI/UX Design & Development",
+            "total": 5219,
+            "avatar": "10-small.png",
+            "invoice_status": "Downloaded",
+            "balance": 0,
+            "due_date": "12/15/2019"
+        }
+
+    ]
+}
